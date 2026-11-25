@@ -1,0 +1,6 @@
+{
+  "name": "Guiding Light Tutor",
+  "description": "A multi-user AI tutoring workspace that guides students step by step across subjects using Socratic dialogue, concept diagrams, practice quizzes, and live shared study sessions.",
+  "requestFramePermissions": ["camera"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
